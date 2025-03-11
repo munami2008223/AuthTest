@@ -1,4 +1,4 @@
-package ru.netology.service;
+package ru.netology.service.test;
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.BeforeEach;
